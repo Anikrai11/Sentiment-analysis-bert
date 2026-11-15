@@ -6,7 +6,7 @@ Fine-tuned DistilBERT for 3-class sentiment classification (positive / neutral /
 
 | Model | Accuracy |
 | :--- | :--- |
-| Baseline (TF-IDF + Logistic Regression) | [Baseline Accuracy] |
+| Baseline (TF-IDF + Logistic Regression) | [64%] |
 | **Fine-tuned BERT (This Project)** | **64%** |
 
 **Training:** 2000 samples, 2 Epochs
